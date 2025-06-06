@@ -1,12 +1,24 @@
-A basic, responsive Netflix homepage clone built with only HTML and CSS. This is a layout-only project and does not include dynamic functionality.
+# 🎬 Netflix Clone - Frontend Only
 
-🚀 Features
-Netflix-style user interface
+This is a responsive **Netflix Clone UI** built using **pure HTML, CSS**, and a little **JavaScript**. The goal was to replicate the look and feel of the Netflix homepage with a focus on layout, styling, and interactivity.
 
-Fully responsive layout
+## ✨ Features
 
-Hero section with featured content
+- 🎞️ Horizontal scrolling sections (like Netflix)
+- 🎯 Scroll buttons for navigating through movie rows
+- 💻 Fully responsive layout (mobile, tablet, desktop)
+- 🖱️ Smooth hover animations on movie thumbnails
+- 🔝 Clean and minimal navigation bar
+- 🧩 Clickable thumbnails (non-functional for now)
 
-Navigation bar with logo and menu
+> ⚠️ This project is **frontend-only**. 
 
-Clean, simple design
+## 🛠️ Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript **
+
+## 📂 Folder Structure
+
+
