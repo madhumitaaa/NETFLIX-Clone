@@ -5,24 +5,113 @@
 
 }
 
-
-
-    /*background-color:rgba(0,0,0,0.4);*/
     
-
-/*
 .nav {
-    display: flex;
     padding: 10px 20px;
-    z-index: 2;
+    display: flex;
     justify-content: space-between;
+    gap:10px;
 }
-*/
+
 .navbar {
+   padding:5px 10px ;
+   margin-top:90px;
+    justify-content:space-between;
+
+}
+.gap{
     border-radius: 2px;
     border-width: 2px;
+    font-size: 14px;
+    border-color: white;
+    margin-right: 15px;
+}
+.m{
+    color:black ;
+    font-size: 14px;
+}
+.k{
+    background:red;
+    color:white;
+    font-size: 20px;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.gap{
+    background: transparent;
+    color:white;
+    font-size: 22px;
+}
+.thumbnail-row{
+     display: flex;
+      overflow-x: auto;
+      padding-bottom: 80px;
+      padding-top: 60px;
+      scrollbar-width: none; 
+      gap:40px;
+}
+
+ .im{
+    border-width: 4px;
+    border-color: black;
+    transition: all ease 1s;
+   
+ }
+ .im:hover{
+    scale:1.2;
+ }
+ 
+
+ .bigbox{
+     display: flex;
+     gap: 15px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+ }
+ .box{
+    width:410px;
+    height:260px;
+     border-radius: 8px;
+    border-width:10px ;
+    border-color: rgb(15, 15, 22);
+     background: linear-gradient(to right, #11111a, #1d1b2d, #24243e);
+    text-align:center;
+     transition: all ease 1s;
+    
+}
+.box:hover{
+    scale:1.2;
+}
+
+#l{
+    font-size: 33px;
+    font-family: Georgia (serif);
+    font-weight: 8px;
+     color: white;
+    font-weight: 6px;
+
 
 }
+#s{
+    
+    font-size: 18px;
+    font-family: Georgia (serif);
+     color: white;
+    font-weight: 2px;
+}
+
+#img{
+    height:40px;
+    width:35px;
+    
+}
+
+
+
+
 
 
 
@@ -66,4 +155,13 @@
     border-width: 2px;
     padding:10px 20px;
     background: red
+}
+.foot{
+    color: white;
+     text-decoration: underline;
+     font-size: 20px;
+
+}
+.get{
+    padding:10px 20px;font-size: 25px;background: red;border-radius: 2px;border-width: 2px;color: white;
 }
